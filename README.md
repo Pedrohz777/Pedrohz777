@@ -1,16 +1,14 @@
-## Hi there 👋
+# Boas vindas ao meu perfil🚙
 
-<!--
-**Pedrohz777/Pedrohz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Henrique
 
-Here are some ideas to get you started:
+- Estudante no alura.
+- Desenvolvendo na linguaguem java script.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### vocé entra em contato comigo 📫
+
+ Pedrohenrique7pds@gmail.com
+
+  ### link de dos meus projetos 💼
+
+  <iframe src=">https://editor.p5js.org/Pedrohenrique77/sketches/MxX_y7rJe</iframe>
