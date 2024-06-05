@@ -5,7 +5,7 @@ Meu nome é Pedro Henrique
 - Estudante no alura.
 - Desenvolvendo na linguaguem java script.
 
-  ### vocé entra em contato comigo 📫
+  ### Entre em contato: 📫
 
  Pedrohenrique7pds@gmail.com
 
